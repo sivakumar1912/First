@@ -1,0 +1,111 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.footer{
+   background-color: #fc6767; 
+    color: black;
+}
+.home{
+   background-image: url(../images/cc.jpeg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+    width: 100%;
+    height: 100vh;  
+    position: relative;
+    
+}
+.navbar{
+    background: linear-gradient(to right, #D32363, #EB6A33);
+    color: white;
+    border: none;
+    opacity: 0.9;
+}
+#myNavbar ul li a{
+    color: white;
+    text-align: center;
+}
+#myNavbar ul li a:hover{
+    background-color: palevioletred;
+}
+#s{
+    font-size: 80PX;
+    font-family: 'Kanit', sans-serif;
+    
+}
+.landing{
+    color: white;
+    font-style: italic;
+    padding-top: 180px;
+    font-family:  sans-serif;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.padding{
+    padding:5px 0;
+} 
+.padding img{
+width: 100%;
+}
+.card{
+    background: linear-gradient(to right, #D32363, #EB6A33);
+    text-align: center;
+    padding: 80px;
+    border-radius: 40px;
+    margin: 5px;
+    height: 400px;
+    opacity: 0.9;
+    color: black;
+}
+#about{
+    background: linear-gradient(to right, #D32363, #EB6A33);    
+    padding: 40px;
+    border-radius: 5px;
+    height: 250px;
+    text-align: center;
+    color: black;
+    opacity: 0.9;
+}
+.btn{
+    margin-bottom: 10px;
+}
+.pad{
+    padding: 10px;
+}
+.footimg{
+    margin-top: -30px;
+    margin-left: 60PX;
+}
+
+#btn{
+    background: linear-gradient(to right, #D32363, #EB6A33);
+    color: white;
+    border: none;
+}
+#fixed{
+    background-image: url(../images/istockphoto-1145631842-612x612.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+     width: 100%;
+     height: 60px;  
+     position: relative;
+}
+#logo{
+    margin-top: -12px;
+    height: 50px;
+    width: 120px;
+}
+#carrier{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+#about{
+    margin-bottom: 50px;
+}
+#contact{
+    margin: 50px;
+}
